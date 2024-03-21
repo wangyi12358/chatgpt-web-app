@@ -18,6 +18,8 @@
 
 body {
   color: rgb(var(--foreground-rgb));
+  display: flex;
+  justify-content: center;
   background: linear-gradient(
       to bottom,
       transparent,
